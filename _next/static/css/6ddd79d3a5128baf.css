@@ -61,11 +61,12 @@ a {
 	background-image: url(/04-zkapp-browser-ui/_next/static/media/footer.07a5d681.png);
 	background-repeat: no-repeat;
 	background-size: cover;
-	width: 500px;
-	height: 110px;
+	width: 520px;
+	height: 145px;
 	position: absolute;
 	left: 200px;
 	top: 560px;
+        right: 200px;
 }
 
 .Home_blank__VvP8P {
@@ -78,6 +79,7 @@ a {
 	position: absolute;
 	left: 200px;
 	top: 600px;
+        right: 299px;
 }
 
 .Home_title__T09hD a {
@@ -176,8 +178,8 @@ a {
 	margin-left: auto;
 	margin-right: auto;
 	position: relative;	
-	width: 1500px;
-	height: 900px;
+	width: 900px;
+	height: 600px;
 	transform: scale(1);
 }
 
@@ -192,17 +194,17 @@ a {
 	background-image: url(/04-zkapp-browser-ui/_next/static/media/homepageImg.ad2e1005.png);
 	background-repeat: no-repeat;
 	position: absolute;
-	width: 750px;
-	height: 7000px;
+	width: 608px;
+	height: 500px;
 }
 
 .Home_banner__WnS5R {
 	display: block;
-	background-image: url(/04-zkapp-browser-ui/_next/static/media/banner.b6e212ad.png);
+	background-image: url(/04-zkapp-browser-ui/_next/static/media/banner1.b6e212ad.png);
 	background-repeat: no-repeat;
 	background-size: cover;
-	width: 370px;
-	height: 130px;
+	width: 420px;
+	height: 142px;
 	position: absolute;
 	left: 250px;
 	top: 150px;
@@ -210,10 +212,10 @@ a {
 
 .Home_banner2__nEGJg {
 	display: block;
-	background-image: url(/04-zkapp-browser-ui/_next/static/media/banner2.8cb49029.png);
+	background-image: url(/04-zkapp-browser-ui/_next/static/media/banner2.d0c9a6c0.png);
 	background-repeat: no-repeat;
 	background-size: cover;
-	width: 370px;
+	width: 400px;
 	height: 100px;
 	position: absolute;
 	left: 335px;
@@ -225,8 +227,8 @@ a {
 	background-image: url(/04-zkapp-browser-ui/_next/static/media/connectBtn1.3d2b7c04.png);
 	background-repeat: no-repeat;
 	background-size: cover;
-	width: 260px;
-	height: 85px;
+	width: 190px;
+	height: 73px;
 	position: absolute;
 	left: 380px;
 	top: 450px;
@@ -237,8 +239,8 @@ a {
 	background-image: url(/04-zkapp-browser-ui/_next/static/media/connectBtn2.f3f9c754.png);
 	background-repeat: no-repeat;
 	background-size: cover;
-	width: 260px;
-	height: 85px;
+	width: 190px;
+	height: 73px;
 	position: absolute;
 	left: 380px;
 	top: 450px;
@@ -249,8 +251,8 @@ a {
 	background-image: url(/04-zkapp-browser-ui/_next/static/media/connectBtn3.73336c07.png);
 	background-repeat: no-repeat;
 	background-size: cover;
-	width: 260px;
-	height: 85px;
+	width: 190px;
+	height: 73px;
 	position: absolute;
 	left: 380px;
 	top: 450px;
@@ -261,8 +263,8 @@ a {
 	background-image: url(/04-zkapp-browser-ui/_next/static/media/loadingBtn.52b0c5e6.gif);
 	background-repeat: no-repeat;
 	background-size: cover;
-	width: 140px;
-	height: 66px;
+	width: 160px;
+	height: 73px;
 	position: absolute;
 	left: 380px;
 	top: 450px;
@@ -273,8 +275,8 @@ a {
 	background-image: url(/04-zkapp-browser-ui/_next/static/media/loading.35398b42.gif);
 	background-repeat: no-repeat;
 	background-size: cover;
-	width: 280px;
-	height: 280px;
+	width: 300px;
+	height: 300px;
 	position: absolute;
 	left: 305px;
 	top: 50px;
@@ -620,8 +622,8 @@ a {
 	margin-left: auto;
 	margin-right: auto;
 	position: relative;	
-	width: 900px;
-	height: 600px;
+	width: 800px;
+	height: 700px;
 }
 
 .Home_getscreenBlack__Krl3p {
