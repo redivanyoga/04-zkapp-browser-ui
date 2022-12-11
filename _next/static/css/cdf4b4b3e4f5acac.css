@@ -1,7 +1,7 @@
 html,
 body {
 	padding: 0;
-	margin: 0; 
+	margin: 0;
 	background-image: url(/04-zkapp-browser-ui/_next/static/media/bg.c36b26fb.gif);
 
 	font-family: "Comic Sans MS";
@@ -13,7 +13,8 @@ body {
 	top: 0px;
 	position: absolute;
 }
- {
+
+a {
   color: inherit;
   text-decoration: none;
 }
@@ -30,7 +31,7 @@ body {
   }
 }
 
-@media (max-width: 500px) {
+@media (max-width: 580px) {
 
 }
 
@@ -52,10 +53,10 @@ body {
 
 .Home_blank__VvP8P {
 	display: block;
-	background-image: url(/04-zkapp-browser-ui/_next/static/media/footer.663488b0.png);
+	background-image: url(/04-zkapp-browser-ui/_next/static/media/footer.6052fd3a.gif);
 	background-repeat: no-repeat;
 	background-size: cover;
-	width: 520px;
+	width: 580px;
 	height: 145px;
 	position: absolute;
 	left: 200px;
@@ -171,7 +172,7 @@ body {
 	width:380px;
 	height: 135px;
 	position: absolute;
-	left: 250px;
+	left: 200px;
 	top: 60px;
 }
 
