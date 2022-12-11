@@ -169,10 +169,10 @@ a {
 	background-image: url(/04-zkapp-browser-ui/_next/static/media/banner.8d4b2a5c.png);
 	background-repeat: no-repeat;
 	background-size: cover;
-	width:480px;
-	height: 145px;
+	width:405px;
+	height: 88px;
 	position: absolute;
-	left: 240px;
+	left: 260px;
 	top: 30px;
 }
 
@@ -181,10 +181,10 @@ a {
 	background-image: url(/04-zkapp-browser-ui/_next/static/media/banner2.7f5ad3d6.png);
 	background-repeat: no-repeat;
 	background-size: cover;
-	width: 50px;
-	height: 50px;
+	width: 80px;
+	height: 80px;
 	position: absolute;
-	left:3px;
+	left:0px;
 	top:3px;
 }
 
@@ -193,10 +193,10 @@ a {
 	background-image: url(/04-zkapp-browser-ui/_next/static/media/connectBtn1.9637bf82.png);
 	background-repeat: no-repeat;
 	background-size: cover;
-	width: 175px;
+	width: 176px;
 	height: 73px;
 	position: absolute;
-	left: 380px;
+	left: 395px;
 	top: 470px;
 }
 
@@ -205,10 +205,10 @@ a {
 	background-image: url(/04-zkapp-browser-ui/_next/static/media/connectBtn2.87bb121a.png);
 	background-repeat: no-repeat;
 	background-size: cover;
-	width: 175px;
+	width: 176px;
 	height: 73px;
 	position: absolute;
-	left: 380px;
+	left: 395px;
 	top: 470px;
 }
 
@@ -217,10 +217,10 @@ a {
 	background-image: url(/04-zkapp-browser-ui/_next/static/media/connectBtn3.2b28e986.png);
 	background-repeat: no-repeat;
 	background-size: cover;
-	width: 175px;
+	width: 176px;
 	height: 73px;
 	position: absolute;
-	left: 380px;
+	left: 395px;
 	top: 470px;
 }
 
@@ -229,10 +229,10 @@ a {
 	background-image: url(/04-zkapp-browser-ui/_next/static/media/loadingBtn.7e7af154.gif);
 	background-repeat: no-repeat;
 	background-size: cover;
-	width: 175px;
+	width: 176px;
 	height: 73px;
 	position: absolute;
-	left: 380px;
+	left: 395px;
 	top: 470px;
 }
 
@@ -758,15 +758,15 @@ a {
 	background-image: url(/04-zkapp-browser-ui/_next/static/media/giticon1.184a937a.png);
 	background-repeat: no-repeat;
 	background-size: cover;
-	width: 70px;
-	height: 90px;
+	width: 78px;
+	height: 60px;
 	position: absolute;
 	left: 585px;
 	top: 597px;
 }
 
 
-@media (max-width: 800px) {
+@media (max-width: 1000px) {
   .Home_grid__GxQ85 {
     width: 100%;
     flex-direction: column;
