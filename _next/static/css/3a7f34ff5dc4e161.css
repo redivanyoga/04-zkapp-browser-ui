@@ -2,7 +2,7 @@ html,
 body {
 	padding: 0;
 	margin: 0;
-	background-image: url(/04-zkapp-browser-ui/_next/static/media/bg.c36b26fb.gif);
+	background-image: url(/04-zkapp-browser-ui/_next/static/media/bg.1eabe5b3.gif);
 
 	font-family: "Comic Sans MS";
 	font-size: 27px;
@@ -169,11 +169,11 @@ a {
 	background-image: url(/04-zkapp-browser-ui/_next/static/media/banner.8d4b2a5c.png);
 	background-repeat: no-repeat;
 	background-size: cover;
-	width:380px;
-	height: 135px;
+	width:480px;
+	height: 145px;
 	position: absolute;
-	left: 200px;
-	top: 60px;
+	left: 240px;
+	top: 30px;
 }
 
 .Home_banner2__nEGJg {
@@ -181,11 +181,11 @@ a {
 	background-image: url(/04-zkapp-browser-ui/_next/static/media/banner2.7f5ad3d6.png);
 	background-repeat: no-repeat;
 	background-size: cover;
-	width: 75px;
-	height: 60px;
+	width: 50px;
+	height: 50px;
 	position: absolute;
-	left:10px;
-	top:25px;
+	left:3px;
+	top:3px;
 }
 
 .Home_connectBtn__q4_OB {
@@ -193,11 +193,11 @@ a {
 	background-image: url(/04-zkapp-browser-ui/_next/static/media/connectBtn1.9637bf82.png);
 	background-repeat: no-repeat;
 	background-size: cover;
-	width: 140px;
-	height: 70px;
+	width: 175px;
+	height: 73px;
 	position: absolute;
 	left: 380px;
-	top: 430px;
+	top: 470px;
 }
 
 .Home_connectBtn__q4_OB:hover {
@@ -205,11 +205,11 @@ a {
 	background-image: url(/04-zkapp-browser-ui/_next/static/media/connectBtn2.87bb121a.png);
 	background-repeat: no-repeat;
 	background-size: cover;
-	width: 140px;
-	height: 70px;
+	width: 175px;
+	height: 73px;
 	position: absolute;
 	left: 380px;
-	top: 450px;
+	top: 470px;
 }
 
 .Home_connectBtn__q4_OB:active {
@@ -217,11 +217,11 @@ a {
 	background-image: url(/04-zkapp-browser-ui/_next/static/media/connectBtn3.2b28e986.png);
 	background-repeat: no-repeat;
 	background-size: cover;
-	width: 140px;
-	height: 70px;
+	width: 175px;
+	height: 73px;
 	position: absolute;
 	left: 380px;
-	top: 450px;
+	top: 470px;
 }
 
 .Home_loadingBtn__vAScy {
@@ -229,11 +229,11 @@ a {
 	background-image: url(/04-zkapp-browser-ui/_next/static/media/loadingBtn.7e7af154.gif);
 	background-repeat: no-repeat;
 	background-size: cover;
-	width: 140px;
-	height: 70px;
+	width: 175px;
+	height: 73px;
 	position: absolute;
 	left: 380px;
-	top: 450px;
+	top: 470px;
 }
 
 .Home_loading__IsZ5F {
@@ -725,7 +725,7 @@ a {
 	width: 70px;
 	height: 70px;
 	position: absolute;
-	left: 280px;
+	left: 285px;
 	top: 600px;
 }
 
@@ -737,7 +737,7 @@ a {
 	width: 70px;
 	height: 70px;
 	position: absolute;
-	left: 380px;
+	left: 385px;
 	top: 600px;
 }
 
@@ -749,7 +749,7 @@ a {
 	width: 70px;
 	height: 70px;
 	position: absolute;
-	left: 480px;
+	left: 485px;
 	top: 600px;
 }
 
@@ -761,12 +761,12 @@ a {
 	width: 70px;
 	height: 90px;
 	position: absolute;
-	left: 580px;
-	top: 600px;
+	left: 585px;
+	top: 597px;
 }
 
 
-@media (max-width: 600px) {
+@media (max-width: 800px) {
   .Home_grid__GxQ85 {
     width: 100%;
     flex-direction: column;
